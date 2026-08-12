@@ -1,0 +1,83 @@
+{
+  "features": [
+    "Crop",
+    "Season_Mapped",
+    "Area",
+    "Annual_Rainfall"
+  ],
+  "targets": [
+    "Yield",
+    "Fertilizer_per_area",
+    "Pesticide_per_area"
+  ],
+  "valid_crops": [
+    "Arecanut",
+    "Arhar/Tur",
+    "Bajra",
+    "Banana",
+    "Barley",
+    "Black pepper",
+    "Cardamom",
+    "Cashewnut",
+    "Castor seed",
+    "Coconut",
+    "Coriander",
+    "Cotton(lint)",
+    "Cowpea(Lobia)",
+    "Dry chillies",
+    "Garlic",
+    "Ginger",
+    "Gram",
+    "Groundnut",
+    "Guar seed",
+    "Horse-gram",
+    "Jowar",
+    "Jute",
+    "Khesari",
+    "Linseed",
+    "Maize",
+    "Masoor",
+    "Mesta",
+    "Moong(Green Gram)",
+    "Moth",
+    "Niger seed",
+    "Oilseeds total",
+    "Onion",
+    "Other  Rabi pulses",
+    "Other Cereals",
+    "Other Kharif pulses",
+    "Other Summer Pulses",
+    "Peas & beans (Pulses)",
+    "Potato",
+    "Ragi",
+    "Rapeseed &Mustard",
+    "Rice",
+    "Safflower",
+    "Sannhamp",
+    "Sesamum",
+    "Small millets",
+    "Soyabean",
+    "Sugarcane",
+    "Sunflower",
+    "Sweet potato",
+    "Tapioca",
+    "Tobacco",
+    "Turmeric",
+    "Urad",
+    "Wheat",
+    "other oilseeds"
+  ],
+  "valid_seasons": [
+    "Dry Season",
+    "Rainy Season",
+    "Year-Round"
+  ],
+  "area_range_seen": [
+    0.5,
+    50808100.0
+  ],
+  "rainfall_range_seen": [
+    301.3,
+    6552.7
+  ]
+}
